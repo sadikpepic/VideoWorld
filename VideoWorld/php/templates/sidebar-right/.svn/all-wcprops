@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/203/php/templates/sidebar-right
+END
+content.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/200/php/templates/sidebar-right/content.php
+END
+best-rated.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/235/php/templates/sidebar-right/best-rated.php
+END
+most-viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/235/php/templates/sidebar-right/most-viewed.php
+END
