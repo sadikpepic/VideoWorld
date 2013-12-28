@@ -1,0 +1,46 @@
+<!-- start Header -->
+<head>
+	<title>VideoWorld</title>
+	<link rel='icon' href='web/images/favicon.ico' type='image/x-icon'/>
+	<meta http-equiv='Content-type' content='text/html; charset=utf-8' />
+	
+	<!-- include lib styles -->
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/black-tie/jquery-ui.css' type='text/css' />
+	
+	<link rel='stylesheet' href='web/css/lib/pwdwidget.css' type='text/css' />
+	<link rel='stylesheet' href='web/css/lib/starbox.css' type='text/css' />
+	<link rel='stylesheet' href='web/css/lib/video-js.min.css' type='text/css' />
+	
+	<!--[if IE 6]>
+		<link rel='stylesheet' href='CSS/ie6.css' type='text/css' media='all' />
+	<![endif]-->
+	
+	<!-- include custom styles -->
+	<link rel='stylesheet' href='web/css/style.css' type='text/css' media="all"/>
+
+	<!-- include lib javascripts -->	
+	<script type='text/javascript' src='http://code.jquery.com/jquery-1.9.1.js'></script>
+	<script type='text/javascript'>	var jQuery = jQuery.noConflict(); </script>
+	<script type='text/javascript' src='http://code.jquery.com/ui/1.10.3/jquery-ui.js'></script>
+	<script type='text/javascript' src='web/javascript/lib/jquery/jquery.json-2.4.min.js'></script>
+	<script type='text/javascript' src='web/javascript/lib/jquery/jquery.lockfixed.min.js'></script>	
+	
+	<script type='text/javascript' src='web/javascript/lib/pwdwidget.js'></script>
+	<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/prototype/1.7/prototype.js'></script>
+	<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/scriptaculous/1/scriptaculous.js'></script>
+	<script type='text/javascript' src='web/javascript/lib/starbox.js'></script>
+	<script type='text/javascript' src='web/javascript/lib/video.dev.js'></script>
+	<script type='text/javascript' src='web/javascript/lib/video.js'></script>
+	
+	<!-- include custom javascripts -->
+	<script type='text/javascript' src='web/javascript/function/overview.js'></script>
+	<script type='text/javascript' src='web/javascript/function/search.js'></script>
+	<script type='text/javascript' src='web/javascript/function/login.js'></script>
+	
+	<script type='text/javascript' src='web/javascript/function/sidebar/general.js'></script>
+	<script type='text/javascript' src='web/javascript/function/sidebar/sort.js'></script>
+	<script type='text/javascript' src='web/javascript/function/sidebar/filter.js'></script>
+	<script type='text/javascript' src='web/javascript/function/sidebar/wishList.js'></script>
+
+</head>
+<!-- end Header -->
